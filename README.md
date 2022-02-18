@@ -17,7 +17,7 @@ $ cat 18-02-2022.log
 > In the past I've also been working on some c++ projects, like image-to-ascii. 
 > C#, JS, and Python are also languages I'm familiar with.
 
-> Right now I'm mainly working on a firmware for my custom mechanical keyboard (atmega32u4 microcontroller on my own PCB)
+> Right now I'm mainly working on a firmware for my custom mechanical keyboard (atmega32u4)
   and besides that, I'm working as a volunteer developer for a Minecraft server.
 
 > It was nice to meet you.
