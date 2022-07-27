@@ -12,8 +12,7 @@ $ cat 18-02-2022.log
 > You are asking in which specific fields I have collected experience over the years? - great question!
 
 > My journey began with various small Java applications. 
-> Since then Java is my most preferred language. I'm using Java to this day in most of my projects,
-  for example in borad (my version of tic-tac-toe).
+> Since then Java is my most preferred language. I'm using Java to this day in most of my projects.
 > In the past I've also been working on some c++ projects, like image-to-ascii. 
 > C#, JS, and Python are also languages I'm familiar with.
 
