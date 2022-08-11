@@ -1,4 +1,4 @@
-# <img src="https://github.com/Yanndroid/Yanndroid/blob/master/cats.gif" width="27" height="27" /> Hello There
+# <img src="https://github.com/Yanndroid/Yanndroid/blob/master/readme-res/cats.gif" width="27" height="27" /> Hello There
 
 ```
 $ cat 11-08-2022.log
