@@ -1,12 +1,12 @@
 # <img src="https://github.com/Yanndroid/Yanndroid/blob/master/readme-res/cats.gif" width="27" height="27" /> Hello There
 
 ```
-$ cat 11-08-2022.log
+$ cat 30-01-2023.log
 
 > Hey stranger!
 > It's me, Leon.
 > First let me tell you a few things about myself.
-> I'm from Germany and in October I will study computer science at university.
+> I'm a german computer science student and a hobby developer.
   
 > You are asking what experience I have collected over the years? - great question!
 
@@ -14,7 +14,7 @@ $ cat 11-08-2022.log
 > Since then Java is one of my favorite languages. I'm frequently using Java in my projects.
 > C#, JS, and Python are also languages I'm familiar with.
 
-> But right now I'm mainly interested in learning C++. (go and check out todopp :D)
+> But right now I'm learning C / C++ while beeing focused on embedded systems.
 
 > It was nice to meet you.
 
